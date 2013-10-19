@@ -1,0 +1,6 @@
+name: KillingFloor
+main: me.hipsteruser.killingfloor.MainClass
+version: 1.0
+description: >
+             killing floor for minecraft.
+commands:
